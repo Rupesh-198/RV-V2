@@ -123,4 +123,4 @@ For any queries or support, contact [Rupesh](https://t.me/Rupesh_varadkar) on Te
 
 ---
 
-Happy DDoS'ing responsibly! 🚀
+Happyy DDoS'ing responsibly! 🚀
