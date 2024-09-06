@@ -24,7 +24,7 @@ This repository contains a Telegram bot designed to perform DDoS attacks. The bo
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/Rupesh-198/RV-V1
+   git clone https://github.com/Rupesh-198/RV-V2
    cd RV-V1
    ```
 
