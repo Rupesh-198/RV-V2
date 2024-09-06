@@ -119,7 +119,7 @@ If you wish to contribute to this project, feel free to submit a pull request or
 
 ## Contact
 
-For any queries or support, contact [Telegra](https://t.me/Rupesh_varadkar) [instagram](https://www.instagram.com/7__r_u_p_e_s_h__7) . 
+For any queries or support, contact [Telegram](https://t.me/Rupesh_varadkar) / [instagram](https://www.instagram.com/7__r_u_p_e_s_h__7) . 
 
 ---
 
